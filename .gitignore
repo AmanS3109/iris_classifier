@@ -1,0 +1,59 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ml_env/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# macOS / Linux
+.DS_Store
+*.swp
+
+# Logs
+*.log
+
+# Model and dataset artifacts
+*.h5
+*.pkl
+*.joblib
+*.model
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Coverage / testing
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
+.mypy_cache/
+.dmypy.json
+.pyre/
+
+# IDE project files
+.idea/
+*.iml
+
+# Others
+*.bak
+*.tmp
+
